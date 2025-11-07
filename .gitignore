@@ -1,0 +1,11 @@
+# Carpetas de compilación
+bin/
+out/
+build/
+
+# Archivos de IDE
+*.class
+*.iml
+.idea/
+.vscode/
+*.log
